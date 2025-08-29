@@ -38,7 +38,7 @@ Coming Soon...🔥
 ## ⚡ Fun Fact About Me:
 
 - 💡 I hate **semicolons**. 😠  
-- 🖥️I used to change the color of the command promt into **green** to make me look like a Hacker. 😅   
+- 🖥️I used to change the color of the command promt into **green** to make me look like a Hacker.😅   
 - 🌙 I enjoy coding after I took a sip of black coffee in the night.      
 - 🛑 I have a bestfriend who is an Indian. 💁‍♂️ 
     
