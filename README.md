@@ -28,7 +28,7 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 ### 🧪 MIDTERM 
 [Midterm Paired Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) - Object Oriented Analysis
 
-[Midterm Lab Task #1]() - Escape Sequence, Type Specifiers, Accept User Input and Day Identifier
+[Midterm Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) - Escape Sequence, Type Specifiers, Accept User Input and Day Identifier
 
 [Midterm Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) - Using Loops and Functions
 
