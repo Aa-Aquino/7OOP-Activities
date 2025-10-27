@@ -26,7 +26,7 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 ## 💻 My Projects  
 
 ### 🧪 MIDTERM  
-Coming Soon...🔥
+[Midterm Lab task #5](https://github.com/Aa-Aquino/7OOP-Activities/tree/main/Midterm_Labtask/Laboratory_Task%20%235) - Creating Class and Instantiating Objects in Python
 
 ---
 
