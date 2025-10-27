@@ -25,8 +25,18 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 
 ## 💻 My Projects  
 
-### 🧪 MIDTERM  
-[Midterm Lab task #5](https://github.com/Aa-Aquino/7OOP-Activities/tree/main/Midterm_Labtask/Laboratory_Task%20%235) - Creating Class and Instantiating Objects in Python
+### 🧪 MIDTERM 
+[Midterm Paired Task #1]() - Object Oriented Analysis
+
+[Midterm Lab Task #1]() - Escape Sequence, Type Specifiers, Accept User Input and Day Identifier
+
+[Midterm Lab Task #2]() - Using Loops and Functions
+
+[Midterm Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) - Using List Collections
+
+[Midterm Lab Task #4]() - Using Dictionary Collections
+
+[Midterm Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%205_AaronAquino.pdf) - Creating Class and Instantiating Objects in Python
 
 ---
 
