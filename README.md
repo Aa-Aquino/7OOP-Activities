@@ -41,7 +41,18 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 ---
 
 ### 🎓 FINALS  
-Coming Soon...🔥  
+[Final Lab Task #1](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Paired%20Task_1.pdf) - Encapsulation
+
+[Final Lab Task #2](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%201_Aaron%20Aquino.pdf) - Inheritance
+
+[Final Lab Task #3](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%202_AaronAquino.pdf) - Polymorphism
+
+[Final Lab Task #4](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%203_Aaron%20Aquino.pdf) - Python and Tkinter GUI program
+
+[Final Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%204_AaronAquino..pdf) - CRUD CLI using Pythong and MySQL
+
+[Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Midterm_Labtask/Midterm%20Lab%20Task%205_AaronAquino..pdf) - MySQL and Tkinter HUI
+
 
 --- 
 
