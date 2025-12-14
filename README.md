@@ -51,7 +51,7 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 
 [Final Lab Task #5](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%235_AquinoAaron.pdf) - CRUD CLI using Pythong and MySQL
 
-[Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabTask%20%236_AaronAquino.pdf) - MySQL and Tkinter HUI
+[Final Lab Task #6](https://github.com/Aa-Aquino/7OOP-Activities/blob/main/Final%20Lab%20Task/FinalsLabtask%236_AaronAquino.pdf) - MySQL and Tkinter HUI
 
 
 --- 
